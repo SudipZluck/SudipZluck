@@ -2,7 +2,7 @@
 SudipZluck/SudipZluck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Sudip Mondal</h1>
+<h1 align="center">Nomoskar 👋, I'm Sudip Mondal</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudipzluck&label=Profile%20views&color=0e75b6&style=flat" alt="sudipzluck" /> </p>
@@ -32,3 +32,9 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudipzluck&show_icons=true&locale=en" alt="sudipzluck" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudipzluck&" alt="sudipzluck" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SudipZluck&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SudipZluck&icon=0&color=0)](https://visitcount.itsvg.in)
