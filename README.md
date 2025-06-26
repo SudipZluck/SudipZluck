@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @SudipZluck
-- 👀 I’m interested in Flutter/Dart
-- 🌱 I’m currently learning Flutter/React Native
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? Mail at sudipm@zluck.in
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Pata nhi 😄
-
 <!---
 SudipZluck/SudipZluck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -19,9 +11,13 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
-
-- ⚡ Fun fact **If you know, you know**
+- 👋 Hi, I’m @SudipZluck
+- 👀 I’m interested in Flutter/Dart
+- 🌱 I’m currently learning Flutter/React Native
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me? Mail at sudipm@zluck.in
+- 😄 Pronouns: ...
+- ⚡ Fun fact: Pata nhi 😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
